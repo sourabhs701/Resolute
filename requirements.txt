@@ -1,0 +1,10 @@
+fastapi
+pydantic
+mangum
+uvicorn
+passlib
+python-jose
+pydantic[email]
+python-dotenv
+pymongo
+bcrypt
